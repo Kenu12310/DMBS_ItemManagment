@@ -1,0 +1,13 @@
+C:\Users\Stalin\source\repos\MyDemoForm1\MyDemoForm1\bin\Debug\MyDemoForm1.exe.config
+C:\Users\Stalin\source\repos\MyDemoForm1\MyDemoForm1\bin\Debug\MyDemoForm1.exe
+C:\Users\Stalin\source\repos\MyDemoForm1\MyDemoForm1\bin\Debug\MyDemoForm1.pdb
+C:\Users\Stalin\source\repos\MyDemoForm1\MyDemoForm1\obj\Debug\MyDemoForm1.csprojAssemblyReference.cache
+C:\Users\Stalin\source\repos\MyDemoForm1\MyDemoForm1\obj\Debug\MyDemoForm1.Form1.resources
+C:\Users\Stalin\source\repos\MyDemoForm1\MyDemoForm1\obj\Debug\MyDemoForm1.Properties.Resources.resources
+C:\Users\Stalin\source\repos\MyDemoForm1\MyDemoForm1\obj\Debug\MyDemoForm1.csproj.GenerateResource.cache
+C:\Users\Stalin\source\repos\MyDemoForm1\MyDemoForm1\obj\Debug\MyDemoForm1.csproj.CoreCompileInputs.cache
+C:\Users\Stalin\source\repos\MyDemoForm1\MyDemoForm1\obj\Debug\MyDemoForm1.exe
+C:\Users\Stalin\source\repos\MyDemoForm1\MyDemoForm1\obj\Debug\MyDemoForm1.pdb
+C:\Users\Stalin\source\repos\MyDemoForm1\MyDemoForm1\bin\Debug\MyEXDatabase.mdf
+C:\Users\Stalin\source\repos\MyDemoForm1\MyDemoForm1\bin\Debug\MyEXDatabase_log.ldf
+C:\Users\Stalin\source\repos\MyDemoForm1\MyDemoForm1\obj\Debug\MyDemoForm1.MainForm.resources
